@@ -1,0 +1,8 @@
+C:\Users\Orbis\source\repos\LearnNCapas\Commons\bin\Debug\netcoreapp3.1\Commons.deps.json
+C:\Users\Orbis\source\repos\LearnNCapas\Commons\bin\Debug\netcoreapp3.1\Commons.dll
+C:\Users\Orbis\source\repos\LearnNCapas\Commons\bin\Debug\netcoreapp3.1\Commons.pdb
+C:\Users\Orbis\source\repos\LearnNCapas\Commons\obj\Debug\netcoreapp3.1\Commons.csprojAssemblyReference.cache
+C:\Users\Orbis\source\repos\LearnNCapas\Commons\obj\Debug\netcoreapp3.1\Commons.AssemblyInfoInputs.cache
+C:\Users\Orbis\source\repos\LearnNCapas\Commons\obj\Debug\netcoreapp3.1\Commons.AssemblyInfo.cs
+C:\Users\Orbis\source\repos\LearnNCapas\Commons\obj\Debug\netcoreapp3.1\Commons.dll
+C:\Users\Orbis\source\repos\LearnNCapas\Commons\obj\Debug\netcoreapp3.1\Commons.pdb
